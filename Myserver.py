@@ -1,7 +1,8 @@
+ 
 # Tool Name :- MyServer
-# Author :- 
-# Date :- 13/11/2018 - 22/July/2019
-# Powered By :- Aex Software's
+# Author :- Dangerous Siddharth Gupta
+# Date :- 23/3/2020 - 15/July/2020
+# Powered By :- GSOC Software's
 
 import sys
 import os
